@@ -1,0 +1,9 @@
+# dir
+venv/
+__pycache__/
+.idea/
+
+# file
+env.bat
+*.xlsx
+voice.wav
